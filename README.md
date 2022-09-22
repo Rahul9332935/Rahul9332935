@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahul9332935@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/158gLjytM4-ivQBtpG1-OrZCJ_LRzSjR3/view?usp=sharing](https://drive.google.com/file/d/158gLjytM4-ivQBtpG1-OrZCJ_LRzSjR3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://bit.ly/Rahul_resume)
 
 - ⚡ Fun fact **I think i'm a funny guy.**
 
