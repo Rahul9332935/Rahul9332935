@@ -33,7 +33,7 @@
 
 
 <br>
-<h2  align="center">📊 Leetcode Statistics<h2>
+<h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
 <img  src="https://leetcard.jacoblin.cool/rahul9332?ext=activity" />
 <br />
