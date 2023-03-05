@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul9332935&label=Profile%20views&color=0e75b6&style=flat" alt="rahul9332935" /> </p>
 
-
+    
 
 - 🌱 I’m currently learning **Java,MySQL**
 
@@ -33,24 +33,24 @@
 
 
 <br>
-<h2 align="center">📊 Leetcode Statistics<h2>
+<h2  align="center">📊 Leetcode Statistics<h2>
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/rahul9332?ext=activity" />
+<img  src="https://leetcard.jacoblin.cool/rahul9332?ext=activity" />
 <br />
 
 
-
+    
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul9332935&theme=react" alt="Rahul Kumar" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rahul9332935&show_icons=true&theme=react" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul9332935&theme=react" alt="Rahul Kumar" height="250px" width="47%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rahul9332935&show_icons=true&theme=react" height="255px" width="47%"  />
 <div>
   </br>
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul9332935&theme=react&langs_count=8" alt="Rahul Kumar" height="260px" width="25%" />
-  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=Rahul9332935&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=Rahul9332935&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF"   height="255px" width="70%"/>
 <div
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
