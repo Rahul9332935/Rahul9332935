@@ -1,9 +1,9 @@
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
+<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" > 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul9332935&label=Profile%20views&color=0e75b6&style=flat" alt="rahul9332935"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul9332935&label=Profile%20views&color=0e75b6&style=flat" alt="rahul9332935"/></p >
 
     
 
