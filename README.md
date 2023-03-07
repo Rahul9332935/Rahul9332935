@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java,MySQL** 
 
-- 👨‍💻 All of my projects are available at [Rahul9332935.github.io](Rahul9332935.github.io )
+- 👨‍💻 All of my projects are available at [Rahul9332935.github.io](Rahul9332935.github.io)
 
 - 💬 Ask me about **JavaScript, Java**
 
