@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11ZgFOpGuofMAmETKmPrJJ3QV_WF8xv36/view?usp=sharing)
 
-- ⚡ Fun fact **I think i'm a funny guy.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul9332935" alt="rahul9332935" /></a> </p>
 
