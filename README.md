@@ -49,7 +49,7 @@
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul9332935&theme=react&langs_count=8" alt="Rahul Kumar" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Rahul9332935&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF"   height="255px" width="70%"/>
+  
 <div
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
